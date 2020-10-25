@@ -1,3 +1,11 @@
+## 25 October 2020: New macOS app
+### Docsion macOS 0.4.2: Auto-synced docs.
+
+ [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
+ **SHA**: `7ea22c9e20c63a5d4ec427c176b1d51f5e0a5f3e74939424b21dc47485147d24`
+  - ✨ Hightlight: Doc can be auto-synced now.
+  - ~~🐛~~ Bug fixes.
+  
 ## 24 October 2020: New macOS app
 ### Docsion macOS 0.4.1: Support request header, query, body json.
  > Sit down and take a look the pull requests, 10.000 lines of code changing make me scare off, so the new Docsion version released 💪
