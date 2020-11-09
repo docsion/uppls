@@ -2,7 +2,7 @@
 ### Docsion macOS 0.5.1: Share docs.
 
  [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
- **SHA**: `896e699eae223918032a8f8f42ebffd329b6cb94069de71b5fe28a360530a9f0`
+ **SHA**: `db5a3167ae563b3e36e7f28e49ce2795f3108f296b6dc4f38ee9eec5c7c47d04`
   - ✨ Hightlight: Now you can share doc to your teammate.
   - 🏋️‍ Get markdown embed code.
   - ~~🐛~~ Bug fixes.
