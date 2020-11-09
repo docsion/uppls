@@ -1,5 +1,5 @@
 ## 9 November 2020: New macOS app
-### Docsion macOS 0.5.1: Share docs.
+### Docsion macOS 0.5.2: Share docs.
 
  [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
  **SHA**: `db5a3167ae563b3e36e7f28e49ce2795f3108f296b6dc4f38ee9eec5c7c47d04`
