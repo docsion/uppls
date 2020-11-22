@@ -1,3 +1,12 @@
+## 21 November 2020: Docsion macOS 0.6.1
+### Docsion macOS 0.6.1: UI/UX improvement, Help(?) menu.
+
+ [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
+ **SHA**: `b8bdef760230dc5f0eb46125d7aa8e05d87eb3cb31a05d1d2bcb7d7cb87f2975`
+  - ✨ Hightlight: UI/UX improvement @ Login, Share popup, Brand new icon, Toggle menu.
+  - Help(?) menu, now you can send dm to the author.
+  - ~~🐛~~ Bug fixes.
+  
 ## 10 November 2020: New macOS app
 ### Docsion macOS 0.5.3: Window size persistent.
 
