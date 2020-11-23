@@ -1,4 +1,4 @@
-## 21 November 2020: Docsion macOS 0.6.1
+## 22 November 2020: Docsion macOS 0.6.1
 ### Docsion macOS 0.6.1: UI/UX improvement, Help(?) menu.
 
  [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
