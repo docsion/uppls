@@ -1,3 +1,11 @@
+## 24 November 2020: Docsion macOS 0.6.2
+### Docsion macOS 0.6.2: Prettify JSON response
+
+ [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
+ **SHA**: `07eba735d08df9273ac6b9689caeb658acee5b1f94af7c6035945c4112347651`
+  - ✨ Hightlight: Pretify JSON response to more readable.
+  - ~~🐛~~ Bug fixes.
+  
 ## 22 November 2020: Docsion macOS 0.6.1
 ### Docsion macOS 0.6.1: UI/UX improvement, Help(?) menu.
 
