@@ -1,3 +1,13 @@
+## 31 Dec 2020: Docsion macOS 0.7.1
+### Docsion macOS 0.7.1: Playground request Form, import curl
+
+ [Download](https://get.docsion.com/?product=docsion-devedition-latest&os=macos&lang=vi) |
+ **SHA**: `562f16b8e14d98c314bbb03c390792e35626a7ed3ecbdb8612bccdb89040c2af`
+  - ✨ Hightlight: Playground mode now having FORM https://jmp.sh/0YZ2fRT
+  - Delete doc by removing http request line https://jmp.sh/HVEcZvI
+  - Magic extract param / curl via http request line https://jmp.sh/7PBs7rg
+  - ~~🐛~~ Bug fixes.
+  
 ## 24 November 2020: Docsion macOS 0.6.2
 ### Docsion macOS 0.6.2: Prettify JSON response
 
