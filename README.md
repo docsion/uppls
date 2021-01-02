@@ -1,3 +1,10 @@
+## 02 Jan 2021: Experimatal Docsion Linux
+### Docsion linux
+
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `8b5617c9b1f3ec37b208d7bafcf251d46ff0a75567b2641a47d7d3cb0ad81568`
+  - Prerequisite: Ubuntu 18.0.4 or above, gtk-2.20 or above
+  
 ## 31 Dec 2020: Docsion macOS 0.7.1
 ### Docsion macOS 0.7.1: Playground request Form, import curl
 
