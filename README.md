@@ -1,3 +1,18 @@
+## 05 Jan 2021: Docsion v0.7.2
+ - Better login successful page.
+ - Fix first time login blanky screen.
+ 
+### Docsion Linux 0.7.2
+
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `897af59028396276b6c04340f2dbc6475f345df65464d5bbe774b3ed70d29743`
+  - Fix can not resize window.
+  - Fix can not show help menu.
+  
+### Docsion macOS 0.7.2
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `583477f47e2d7bd4b6bdb98bb4fdd0c1af1da2b75b3b4160603f2204146f4fce`
+  
 ## 02 Jan 2021: Experimatal Docsion Linux
 ### Docsion linux
 
