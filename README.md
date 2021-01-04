@@ -1,5 +1,5 @@
 ## 05 Jan 2021: Docsion v0.7.2
- - Better login successful page.
+ - Pretty successful login page.
  - Fix first time login blanky screen.
  
 ### Docsion Linux 0.7.2
