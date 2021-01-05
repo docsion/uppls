@@ -1,6 +1,13 @@
-## 05 Jan 2021: Docsion v0.7.2
+## 05 Jan 2021: Docsion v0.7.2, Welcome Docsion Windows Version
  - Pretty successful login page.
  - Fix first time login blanky screen.
+ 
+ ### Docsion Windows 0.7.2
+
+ [Download](https://get.docsion.com/windows) |
+ **SHA**: `a70b392218a3f4281bbd943a310b82cce16365cbc6e2baf4372cee31e3fa1293`
+  - Prerequisite: Windows 10 (x64)
+  - Download the .zip, extract to `C:\Program Files`, execute `C:\Program Files\Docsion\docsion.reg`, execute `C:\Program Files\Docsion\app.exe` with **Run anyway** option.
  
 ### Docsion Linux 0.7.2
 
