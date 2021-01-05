@@ -7,7 +7,7 @@
  [Download](https://get.docsion.com/windows) |
  **SHA**: `a70b392218a3f4281bbd943a310b82cce16365cbc6e2baf4372cee31e3fa1293`
   - Prerequisite: Windows 10 (x64)
-  - Download the .zip, extract to `C:\Program Files`, execute `C:\Program Files\Docsion\docsion.reg`, execute `C:\Program Files\Docsion\app.exe` with **Run anyway** option.
+  - Download the .zip, extract to `C:\Program Files`, execute `C:\Program Files\Docsion\docsion.reg`, execute `C:\Program Files\Docsion\app.exe` with **Run anyway** option(Click More info, select Run anyway).
  
 ### Docsion Linux 0.7.2
 
