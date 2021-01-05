@@ -1,8 +1,29 @@
+## 06 Jan 2021: Docsion v0.7.3, Playground Response Collapsed, Selectable.
+ - ✨ Hightlight: Playground http request data can be collapsed by click to the key, text selecting enabled.
+ - Mass support --data-<x> header cURL magic tools.
+ - Fix bug not sync doc http request when using magic cURL.
+ 
+ ### Windows
+
+ [Download](https://get.docsion.com/windows) |
+ **SHA**: `a70b392218a3f4281bbd943a310b82cce16365cbc6e2baf4372cee31e3fa1293`
+  - How to install: https://github.com/docsion/uppls#docsion-windows
+ 
+### Linux
+
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `dc9733ec2cecd426eaa75fc7c912c5245f84c2cfa853b4a13b6e8bd25730676c`
+  - How to install: https://github.com/docsion/uppls#docsion-linux
+  
+### macOS
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `3977f45a305ee10ce8bd2377c077f5d87884cb3c5d067b1e67b5b9a26441aa7c`
+ 
 ## 05 Jan 2021: Docsion v0.7.2, Landing Docsion on Windowns
  - Pretty successful login page.
  - Fix first time login blanky screen.
  
- ### Docsion Windows 0.7.2
+ ### Docsion Windows
 
  [Download](https://get.docsion.com/windows) |
  **SHA**: `a70b392218a3f4281bbd943a310b82cce16365cbc6e2baf4372cee31e3fa1293`
