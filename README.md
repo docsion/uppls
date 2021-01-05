@@ -1,4 +1,4 @@
-## 05 Jan 2021: Docsion v0.7.2, Welcome Docsion Windows Version
+## 05 Jan 2021: Docsion v0.7.2, Landing Docsion on Windowns
  - Pretty successful login page.
  - Fix first time login blanky screen.
  
