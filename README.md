@@ -1,3 +1,29 @@
+## 14 Jan 2021: Docsion v0.7.4, Http response improvement
+ - ✨ Hightlight: Http response in zen mode.
+ - Improve http response's rendering.
+ - Improve UX collapsed, copy json http response.
+ - Support cURL header no-value.
+ - Fix bug http response don't update its value in the second time request.
+ 
+### macOS
+
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `d4fa02fe3fe0f5956b0c072a28573c15eb7e1264e1ba61f46fa2d044898b9185`
+ 
+### Linux
+
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `82bd4f748bd35d11c5282e9a7848b38bf2a9dea9ae0a5e844bcd7e13c684b316`
+  - How to install: https://github.com/docsion/uppls#docsion-linux
+ 
+ ### Windows
+
+ [Download](https://get.docsion.com/windows) |
+ **SHA**: `21dbb3b7e6977df838c874f00b7ef82d74d282f917d98f030509bd59fdbc1727`
+  - How to install: https://github.com/docsion/uppls#docsion-windows
+
+
+ 
 ## 06 Jan 2021: Docsion v0.7.3, Playground Response Collapsed, Selectable.
  - ✨ Hightlight: Playground http request data can be collapsed by click to the key, text selecting enabled.
  - Mass support --data-<x> header cURL magic tools.
