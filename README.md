@@ -1,3 +1,17 @@
+## 29 Jan 2021: Docsion v0.7.5, Mock server
+ - ✨ Hightlight: Now you can create mock request, by blazing fast and easy steps.
+ - Improve UI/UX.
+ - Fix bug magic curl.
+ 
+### macOS
+
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `8b98f2f7ecd385e6a018ce8113a90c179b3d2b3ddae90cc3358bbeda9a946a83`
+ 
+### Linux (Coming soon)
+
+### Windows (Coming soon)
+ 
 ## 14 Jan 2021: Docsion v0.7.4, Http response improvement
  - ✨ Hightlight: Http response in zen mode.
  - Improve http response's rendering.
