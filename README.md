@@ -8,9 +8,17 @@
  [Download](https://get.docsion.com/macos) |
  **SHA**: `8b98f2f7ecd385e6a018ce8113a90c179b3d2b3ddae90cc3358bbeda9a946a83`
  
-### Linux (Coming soon)
+### Linux
 
-### Windows (Coming soon)
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `0ba08d973b736675ef40c9bd10d848b06c7f0aee82978953536d6b2ccf1c9f8f`
+  - How to install: https://github.com/docsion/uppls#docsion-linux
+ 
+ ### Windows
+
+ [Download](https://get.docsion.com/windows) |
+ **SHA**: `91110a6ebf06a8c1c3ab8a80d6264384104a895023db37a894b4e36d4e5e0558`
+  - How to install: https://github.com/docsion/uppls#docsion-windows
  
 ## 14 Jan 2021: Docsion v0.7.4, Http response improvement
  - ✨ Hightlight: Http response in zen mode.
