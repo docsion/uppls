@@ -1,3 +1,12 @@
+## 23 Feb 2021: Docsion v0.7.7
+ - ✨ Hightlight: Better parsing curl.
+ - Improve UI/UX.
+ 
+### macOS
+
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `b19c1e731661004c5a27548727666f565a74be04755e8f8b4408849d5b1a3a4e`
+ 
 ## 29 Jan 2021: Docsion v0.7.5, Mock server
  - ✨ Hightlight: Now you can create mock request, by blazing fast and easy steps.
  - Improve UI/UX.
