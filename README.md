@@ -1,4 +1,4 @@
-## 28 Feb 2021: Docsion v0.8.1
+## 28 Feb 2021: Docsion v0.8.2
  - ✨ Hightlight: Now you, my mate, can add http request to a server
  - Improve UI/UX.
  - Bug fixes
@@ -6,7 +6,7 @@
 ### macOS
 
  [Download](https://get.docsion.com/macos) |
- **SHA**: `d9231a836f525a2d7573524658b532b8207849105bbe22377e2d05f89aec251e`
+ **SHA**: `95fa5c2d70a4a5b8c4ae9632b2a5c3c2f17c1fb7e03eae9beb5bd2bda28441e5`
  
 ## 23 Feb 2021: Docsion v0.7.7
  - ✨ Hightlight: Better parsing curl.
