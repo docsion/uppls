@@ -8,6 +8,18 @@
  [Download](https://get.docsion.com/macos) |
  **SHA**: `95fa5c2d70a4a5b8c4ae9632b2a5c3c2f17c1fb7e03eae9beb5bd2bda28441e5`
  
+ ### Linux
+
+ [Download](https://get.docsion.com/linux) |
+ **SHA**: `4c7eb8374f10717ac701462a235d9f785be9a584646d4d6e9710a1ff8d0aa185`
+  - How to install: https://github.com/docsion/uppls#docsion-linux
+ 
+ ### Windows
+
+ [Download](https://get.docsion.com/windows) |
+ **SHA**: `4323f496f9f098569c116fd9accb58ebe5a76065be89aecf0b146ee0a3bc7e7b`
+  - How to install: https://github.com/docsion/uppls#docsion-windows
+ 
 ## 23 Feb 2021: Docsion v0.7.7
  - ✨ Hightlight: Better parsing curl.
  - Improve UI/UX.
