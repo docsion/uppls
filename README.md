@@ -1,3 +1,13 @@
+## 14 Mar 2021: Docsion v0.9.2
+ - ✨ Hightlight: Love to see everyone can create, comment and resolve a ticket.
+ - Improve UI/UX.
+ - Bug fixes
+ 
+### macOS
+
+ [Download](https://get.docsion.com/macos) |
+ **SHA**: `f98a115da83f48d8d048f6f9f791b2a90e0c1de1f5a2e329710cd8a7e51b3fa8`
+
 ## 28 Feb 2021: Docsion v0.8.2
  - ✨ Hightlight: Now you, my mate, can add http request to a server
  - Improve UI/UX.
