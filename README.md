@@ -2,7 +2,7 @@
  - ✨ Hightlight: Local notification macOS app.
  - Bug fixes
  - [Download](https://app.docsion.com)
- - 
+
 ## 13 Apr 2021: Docsion v0.9.3
  - ✨ Hightlight: Standard UI/Ux for login feature.
  - Bug fixes
