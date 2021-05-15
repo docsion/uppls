@@ -1,3 +1,8 @@
+## 15 May 2021: Docsion v0.9.13
+ - ✨ Hightlight: Re-connect automatically when ever app discounnect
+ - Bug fixes
+ - [Download](https://app.docsion.com)
+
 ## 16 Apr 2021: Docsion v0.9.8
  - ✨ Hightlight: Local notification macOS app.
  - Bug fixes
