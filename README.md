@@ -1,5 +1,5 @@
 ## 15 May 2021: Docsion v0.9.13
- - ✨ Hightlight: Re-connect automatically when ever app discounnect
+ - ✨ Hightlight: Re-connect automatically when ever app disconnected
  - Bug fixes
  - [Download](https://app.docsion.com)
 
